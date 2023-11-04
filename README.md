@@ -1,3 +1,2 @@
-# stat-201-project
-
-test push
+# Degrees of Influence: Parental Education's Impact on University Dropout Rates
+STAT 201 Project
